@@ -1,0 +1,41 @@
+/*
+ * Class to compute compass direction N,NE,E,SE,S,SW,W,NW
+ * given an angle as input.
+ * 
+ * @author
+ * @version 
+ */ 
+
+public class CompassDirection
+{
+  /*
+   * Method to compute Compass direction
+   * 
+   * @param degree the angle given as input
+   * @return String the compass direction
+   */ 
+  public String computeCompassDirection(double degree)
+  {
+    String direction;
+    degree = degree % 360;
+
+    if(degree >= 337.5 || degree <= 22.5)
+      direction = "North";
+    else if(degree < 67.5)
+      direction = "North East";
+    else if(degree <= 112.5)
+      direction = "East";
+    else if(degree < 157.5)
+      direction = "South East";
+    else if(degree <= 202.5)
+      direction = "South";
+    else if(degree < 247.5)
+      direction = "South West";
+    else if(degree <= 292.5)
+      direction = "West";
+    else
+      direction = "North West";
+    
+    return direction;
+  }
+}

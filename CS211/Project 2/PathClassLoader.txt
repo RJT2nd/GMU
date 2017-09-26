@@ -1,0 +1,38 @@
+21 Sep 2017 23:29:52 GMT: Log 'PathClassLoader.txt' opened: 21 Sep 2017 23:29:52 GMT with name C:\Users\rober\Documents\GMU\CS211\Project 2\PathClassLoader.txt
+21 Sep 2017 23:29:52 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:31:12 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:31:12 GMT: PathClassLoader.findClass(Sequence) called
+21 Sep 2017 23:31:12 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:31:12 GMT: PathClassLoader.findClass(SequenceTest) called
+21 Sep 2017 23:31:12 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:32:42 GMT: Log 'PathClassLoader.txt' opened: 21 Sep 2017 23:32:42 GMT with name C:\Users\rober\Documents\GMU\CS211\Project 2\PathClassLoader.txt
+21 Sep 2017 23:32:42 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:32:48 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:33:07 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:33:07 GMT: PathClassLoader.findClass(Sequence) called
+21 Sep 2017 23:33:07 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:33:07 GMT: PathClassLoader.findClass(SequenceTest) called
+21 Sep 2017 23:33:07 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:35:15 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:35:15 GMT: PathClassLoader.findClass(Sequence) called
+21 Sep 2017 23:35:15 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:35:15 GMT: PathClassLoader.findClass(SequenceTest) called
+21 Sep 2017 23:35:15 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:36:12 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:36:12 GMT: PathClassLoader.findClass(Sequence) called
+21 Sep 2017 23:36:12 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:36:12 GMT: PathClassLoader.findClass(SequenceTest) called
+21 Sep 2017 23:36:12 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:39:04 GMT: Log 'PathClassLoader.txt' opened: 21 Sep 2017 23:39:04 GMT with name C:\Users\rober\Documents\GMU\CS211\Project 2\PathClassLoader.txt
+21 Sep 2017 23:39:04 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:39:08 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:39:25 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:39:25 GMT: PathClassLoader.findClass(Sequence) called
+21 Sep 2017 23:39:25 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:39:25 GMT: PathClassLoader.findClass(SequenceTest) called
+21 Sep 2017 23:39:25 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:43:57 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+21 Sep 2017 23:43:57 GMT: PathClassLoader.findClass(Sequence) called
+21 Sep 2017 23:43:57 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+21 Sep 2017 23:43:57 GMT: PathClassLoader.findClass(SequenceTest) called
+21 Sep 2017 23:43:57 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
