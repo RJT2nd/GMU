@@ -36,3 +36,22 @@
 21 Sep 2017 23:43:57 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
 21 Sep 2017 23:43:57 GMT: PathClassLoader.findClass(SequenceTest) called
 21 Sep 2017 23:43:57 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:05:56 GMT: Log 'PathClassLoader.txt' opened: 28 Sep 2017 2:05:56 GMT with name C:\Users\rober\Documents\GMU\CS211\Project 2\PathClassLoader.txt
+28 Sep 2017 2:05:56 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Downloads\drjava-gmu.jar]'
+28 Sep 2017 2:06:13 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]'
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(Appointment) called
+28 Sep 2017 2:06:13 GMT: findResource(Appointment.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(AppointmentTest) called
+28 Sep 2017 2:06:13 GMT: findResource(AppointmentTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(Diary) called
+28 Sep 2017 2:06:13 GMT: findResource(Diary.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(DiaryTest) called
+28 Sep 2017 2:06:13 GMT: findResource(DiaryTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(Microwave) called
+28 Sep 2017 2:06:13 GMT: findResource(Microwave.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(MicrowaveTest) called
+28 Sep 2017 2:06:13 GMT: findResource(MicrowaveTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(Sequence) called
+28 Sep 2017 2:06:13 GMT: findResource(Sequence.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
+28 Sep 2017 2:06:13 GMT: PathClassLoader.findClass(SequenceTest) called
+28 Sep 2017 2:06:13 GMT: findResource(SequenceTest.class) called; _path is [C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Documents\GMU\CS211\Project 2, C:\Users\rober\Downloads\drjava-gmu.jar]
